@@ -1,0 +1,72 @@
+/Users/jonvuri/.ghcup/ghc/9.4.6/lib/ghc-9.4.6/lib/aarch64-osx-ghc-9.4.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9f61551ef9df85e1257da78fd2006c602a1beb0bcd3b9bafbaa1d1cfddebc078
+/Users/jonvuri/Dev/aoc2023-haskell/.stack-work/dist/aarch64-osx/Cabal-3.8.1.0/build/autogen/Paths_aoc_template.hs:
+  hash: 48ad5d27d53ec8b2cf1fe6735564c55bb090850e092f8f2adfca22e451efc061
+/Users/jonvuri/Dev/aoc2023-haskell/.stack-work/dist/aarch64-osx/Cabal-3.8.1.0/build/autogen/cabal_macros.h:
+  hash: bf3a23ec796069bc338b953827a87f5da7a10a0975e8adaa1a6a4f643bc62710
+/Users/jonvuri/Dev/aoc2023-haskell/README.md:
+  hash: 1b2e3bffa192db0c6b7dd67235e1433ea5b5a072fae030d2793e6fcf16263544
+/Users/jonvuri/Dev/aoc2023-haskell/aoc-template.cabal:
+  hash: 84e495b7bf5c5b2b4ba29cc4fd6e0bf2241615355460b04f26fb0a0383b1dd35
+/Users/jonvuri/Dev/aoc2023-haskell/package.yaml:
+  hash: 25e4a8961ed39c815b473a47fe6d1a5c8f388b3374233b91c8824f783f571a33
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day01.hs:
+  hash: d21f0de942680f3a85d623790c2eee65e717ead6bd2ff7e5d9812d881ede3832
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day02.hs:
+  hash: 7fdc6764952f1f4cf2b4e58e6ab055a66e7bf3b144ada9f6b6a22980b968351a
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day03.hs:
+  hash: 9c413c28d43569818ed957715d3b60fcb257086a285af40e79c7e2898f317a0c
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day04.hs:
+  hash: e641c7e2266272352daa39695fddd408d0b652c9e23f720ab57460a4fa708954
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day05.hs:
+  hash: ac97c934850a0cd76878f0da504fc69a8300e525149f2c3bd5bb659591f28bed
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day06.hs:
+  hash: 2197a72d8149747ed580856c3961c69b5bb37fd14ecc7a3afc838e5f6c9abf30
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day07.hs:
+  hash: bc93cb862f496db33fd9e718ec3344611597b83ff5a9109c3ffa21ddf2f8fb6d
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day08.hs:
+  hash: 546a2c334f9431bcce5ab829f98e55dc7b23fb5ce3cef5aa09f904f1fa9189b8
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day09.hs:
+  hash: 149ff35713e968e0e4c57d0fdeb9a81df16d3ad3ec90db36821d96afe0cbc9c3
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day10.hs:
+  hash: 579517643f7c427d6b3a41c10a32d2a49d844333ddee586716cab7596a25ed4f
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day11.hs:
+  hash: 9350187bde2d1988678cd228516a2f44aac351eb60e2cad5b0a9d88896964ca4
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day12.hs:
+  hash: 97ecf579a13d7f8d78560979e131113256b58e85c667300f4d596933374dafa9
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day13.hs:
+  hash: 3e2c51831868ecbb280efeafb762a509097b6808ef3253eefaa5f58e1c68f422
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day14.hs:
+  hash: 01ab693134c3d7394e5be806dd1d8cee5d888552ec34583b8344b0703f7e9a13
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day15.hs:
+  hash: 83b8a5c3004cbf9ac6ab801252b241f44bad78a1bde64500dac3537db1cc1c5a
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day16.hs:
+  hash: 70b5987fb82af7fa13ef65ecf147baf3cfb49585cea6d5843998a856594de4c0
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day17.hs:
+  hash: 9607b4ee2551f5cb908c7014b0e92288639728fb8502c3b6a2527dd7d4e6c394
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day18.hs:
+  hash: 11c0208b7abaa2b4ca1831e3702e407a96e9fb805e00cd51542fef437065b335
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day19.hs:
+  hash: 2cc1ac2914f1087d795c4451c15bfb4b5c0d2f030abc73ec7567f68d17d68cc9
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day20.hs:
+  hash: e559ca7cba418c92d25f946d9ab3330f0048ce29009a9dc7fba8b5b097d3d931
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day21.hs:
+  hash: e85baaededc11a3280c6a0fc4a2b3a8384d5b63a96905471f65eef45479ffc8a
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day22.hs:
+  hash: 7644e5af374ade6f79e1492b5448c5aa4784e12f408a2350e0647a038f6de6c8
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day23.hs:
+  hash: 53a8a12f7cf6022c0a50f829cac194bcfe65fd62633ed8e26b6302ddf9dad971
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day24.hs:
+  hash: ed044ac27b4b6f2ee18574e66b0616f1dd5ec590420391d30bef34c2ae302f19
+/Users/jonvuri/Dev/aoc2023-haskell/src/Days/Day25.hs:
+  hash: 9f87d18a8e2779156bdb59a07aa61136bd16720fa7279d1c8c37db5319d08ff2
+/Users/jonvuri/Dev/aoc2023-haskell/src/Program/Color.hs:
+  hash: 7b48dd4cbfb225fcde65b6b43c73ad5f0e786657a05250fa76f36aff4fad880a
+/Users/jonvuri/Dev/aoc2023-haskell/src/Program/RunDay.hs:
+  hash: c9a4b7d8caca2c5498b34465377c4acf865ee496aa7aff14693ea9bcb7e0b400
+/Users/jonvuri/Dev/aoc2023-haskell/src/Util/Pair.hs:
+  hash: 9d876a9c2cc959ef0883f9a28b6d58ae64ac8e8738b6311f0f1bc2966eeae538
+/Users/jonvuri/Dev/aoc2023-haskell/src/Util/Parsers.hs:
+  hash: 85b111cd4491575438134363f3d355a24d545e859dad24a6b8bb30a7dca7bcd0
+/Users/jonvuri/Dev/aoc2023-haskell/src/Util/Util.hs:
+  hash: fb207f2c258900fb14b9495bc80dd45b25d4a9dccb314350870e4bb6ffaa63c4

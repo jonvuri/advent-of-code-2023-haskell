@@ -1,0 +1,14 @@
+/Users/jonvuri/.ghcup/ghc/9.4.6/lib/ghc-9.4.6/lib/aarch64-osx-ghc-9.4.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9f61551ef9df85e1257da78fd2006c602a1beb0bcd3b9bafbaa1d1cfddebc078
+? /Users/jonvuri/Dev/aoc2023-haskell/.stack-work/dist/aarch64-osx/Cabal-3.8.1.0/build/aoc-template-exe/autogen/Paths_aoc_template.hs
+: hash: 98367d38eeed0d2dda9242520d397870d419a7a2e98b1e2a13b4dd0623dbe740
+/Users/jonvuri/Dev/aoc2023-haskell/.stack-work/dist/aarch64-osx/Cabal-3.8.1.0/build/aoc-template-exe/autogen/cabal_macros.h:
+  hash: fe25650a1d8d4350e82f8374bc2645f42c3180cdb59fc34971e415f7dba81530
+/Users/jonvuri/Dev/aoc2023-haskell/README.md:
+  hash: 1b2e3bffa192db0c6b7dd67235e1433ea5b5a072fae030d2793e6fcf16263544
+/Users/jonvuri/Dev/aoc2023-haskell/aoc-template.cabal:
+  hash: 84e495b7bf5c5b2b4ba29cc4fd6e0bf2241615355460b04f26fb0a0383b1dd35
+/Users/jonvuri/Dev/aoc2023-haskell/app/Main.hs:
+  hash: 5eddb71b4cf97105d5eb1027a5ef7e97b1fd2b205cff6e9b257a190694b2893f
+/Users/jonvuri/Dev/aoc2023-haskell/package.yaml:
+  hash: 25e4a8961ed39c815b473a47fe6d1a5c8f388b3374233b91c8824f783f571a33
